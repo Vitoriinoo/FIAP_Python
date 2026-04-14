@@ -1,0 +1,1 @@
+nomes = ['ana', 'maria', 'joao', 'pedro', 'carlos']
